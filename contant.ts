@@ -1,1 +1,1 @@
-export const Url:string='http://localhost:3001'
+export const Url:string='https://eshop-roan.vercel.app'
